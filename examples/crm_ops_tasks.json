@@ -1,0 +1,14 @@
+[
+  {"task": "Check every delivery has an unsubscribe link", "answers": {"fixed_answer": true, "needs_language": false, "needs_judgement": false, "accountable": true}},
+  {"task": "Validate send time is inside local quiet hours", "answers": {"fixed_answer": true, "needs_language": false, "needs_judgement": false, "accountable": true}},
+  {"task": "Confirm the audience has the consent filter", "answers": {"fixed_answer": true, "needs_language": false, "needs_judgement": false, "accountable": true}},
+  {"task": "Explain a failed QA check to a market manager in plain words", "answers": {"fixed_answer": true, "needs_language": true, "needs_judgement": false, "accountable": false}},
+  {"task": "Summarise last week's campaign KPIs for the weekly call", "answers": {"fixed_answer": true, "needs_language": true, "needs_judgement": false, "accountable": true}},
+  {"task": "Draft three subject-line options for a Black Friday email", "answers": {"fixed_answer": false, "needs_language": true, "needs_judgement": false, "accountable": false}},
+  {"task": "Translate a brief's intent into a segment definition", "answers": {"fixed_answer": false, "needs_language": true, "needs_judgement": true, "accountable": false}},
+  {"task": "Decide whether to send during a national day of mourning", "answers": {"fixed_answer": false, "needs_language": false, "needs_judgement": true, "accountable": true}},
+  {"task": "Approve a 240,000-recipient send", "answers": {"fixed_answer": false, "needs_language": false, "needs_judgement": true, "accountable": true}},
+  {"task": "Detect duplicate deliveries scheduled for the same audience", "answers": {"fixed_answer": true, "needs_language": false, "needs_judgement": false, "accountable": false}},
+  {"task": "Reply to a market asking why their campaign was delayed", "answers": {"fixed_answer": false, "needs_language": true, "needs_judgement": true, "accountable": true}},
+  {"task": "Spot an unusual drop in open rate by market", "answers": {"fixed_answer": true, "needs_language": false, "needs_judgement": false, "accountable": false}}
+]
